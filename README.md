@@ -1,17 +1,4 @@
-# Explainable Decision Support for Resilient and Sustainable Supplier Selection
 
-This repository contains the explanation generator pipeline and instance files for the paper:
-
-> Patil, O. & Valilai, O.F. (2026). *Explainable Decision Support for Resilient and Sustainable
-> Supplier Selection: A Logic-Driven Approach.* Proceedings of ICORES 2026.
-
-The underlying ASP supplier selection model, the full instance files, and the RPA–ERP integration
-architecture are from the companion journal paper:
-
-> Patil, O. & Valilai, O.F. (2026). *[Title of journal paper].* Engineering Applications of
-> Artificial Intelligence. doi:10.1016/j.engappai.2026.115955
-
----
 
 ## Repository contents
 
