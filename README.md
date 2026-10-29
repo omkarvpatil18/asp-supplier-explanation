@@ -134,9 +134,5 @@ evaluation. The base instances (without demand suffix) are from the journal pape
 ---
 
 
-  author  = {Patil, Omkar and Valilai, Omid Fatahi},
-  journal = {Engineering Applications of Artificial Intelligence},
-  doi     = {10.1016/j.engappai.2026.115955},
-  year    = {2026}
-}
+
 ```
