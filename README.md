@@ -133,22 +133,7 @@ evaluation. The base instances (without demand suffix) are from the journal pape
 
 ---
 
-## Citation
 
-If you use this code or the instance files, please cite both papers:
-
-```bibtex
-@inproceedings{patil_explainable_2026,
-  title     = {Explainable Decision Support for Resilient and Sustainable
-               Supplier Selection: A Logic-Driven Approach},
-  author    = {Patil, Omkar and Valilai, Omid Fatahi},
-  booktitle = {Proceedings of the International Conference on Operations
-               Research and Enterprise Systems (ICORES)},
-  year      = {2026}
-}
-
-@article{patil_logic_2026,
-  title   = {[Title of journal paper]},
   author  = {Patil, Omkar and Valilai, Omid Fatahi},
   journal = {Engineering Applications of Artificial Intelligence},
   doi     = {10.1016/j.engappai.2026.115955},
